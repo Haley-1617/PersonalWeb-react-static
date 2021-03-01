@@ -1,0 +1,11 @@
+image {
+  max-width: auto;
+  max-height: 100%;
+}
+
+.section {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  position: relative;
+}
