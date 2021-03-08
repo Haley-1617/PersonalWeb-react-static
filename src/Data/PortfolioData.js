@@ -1,6 +1,26 @@
 const projects = [
   {
-    id: 1,
+    id: 13,
+    date: "3/1/2021",
+    description:
+      "A simple react web app that takes user's input to get images from Unsplash and displays nicely to the page with Grid CSS style.",
+    tags: "#React #Web_Dev",
+    title: "Image Search Page",
+    type: "Web Dev",
+    videoID: "__y1_wf9y5w",
+  },
+  {
+    id: 12,
+    date: "2/17/2021",
+    description:
+      "My new project upload page which will update the new project to firebase database and synchronize the content on the page",
+    tags: "#React #Web_Dev",
+    title: "Project Uploader with Firebase",
+    type: "Web Dev",
+    videoID: "-sEnbJiBmM0",
+  },
+  {
+    id: 11,
     date: "8/31/2020",
     description:
       "One of the two 2D games I've made during my summer internship in 2020. The game design was deriving from the Chinese traditional festival - Ghost Festival (Zhongyuan Jie). In mid-summer, people in Taiwan believe that the gate of a temple will be opened. Thus, lots of spirits and ghosts will come out of the gate to the space we live in. In this game, the player controls a zombie who is on his way to the gate of the human world. The zombie needs to dodge obstacles and absorb spirits to defend attacks from Daoshi in order to survive to the gate.",
@@ -10,7 +30,7 @@ const projects = [
     videoID: "U-haRzmMszY",
   },
   {
-    id: 2,
+    id: 10,
     date: "8/31/2020",
     description:
       "One of the two 2D games I've made during my summer internship in 2020. In this game, player controls a zombie who breaks into a house to eat people for feeding his hunger.",
@@ -20,7 +40,7 @@ const projects = [
     videoID: "8YYQeOLCq-g",
   },
   {
-    id: 3,
+    id: 9,
     date: "6/20/2020",
     description: "A simple object tracking using color and shape.",
     tags: "#C++ #OpenCV",
@@ -29,17 +49,17 @@ const projects = [
     videoID: "ygsd9wPmwtQ",
   },
   {
-    id: 4,
+    id: 8,
     date: "10/3/2020",
     description:
       "An upload page I made for my old website to simplify the process of adding a new project to the portfolio page. The page adds a new project to the MongoDB Altas database and updates my portfolio page after submission.",
     tags: "#MongoDB #Mongoose #EJS #jQuery #Node.js #Web Dev",
-    title: "Projects Web Uploader",
+    title: "Project Web Uploader with MongoDB",
     type: "Web Dev",
     videoID: "7YaJ_kQx0sA",
   },
   {
-    id: 5,
+    id: 7,
     date: "7/20/2020",
     description: "A simple LinkedIn Web Scraper made by Python and Selenium.",
     tags: "#Python #Selenium #Web_Scrap",
@@ -57,7 +77,7 @@ const projects = [
     videoID: "nnNyN7TgcWE",
   },
   {
-    id: 7,
+    id: 5,
     date: "4/4/2020",
     description:
       "A pathfinding visualizer made by C++ and SFML framework. The program uses the Breadth-First Search algorithm to calculate and display the shortest path from the starting point(green square) to the target(red square).",
@@ -67,7 +87,7 @@ const projects = [
     videoID: "3I36ClcRCBU",
   },
   {
-    id: 8,
+    id: 4,
     date: "4/6/2020",
     description: "Classic Tetris game made by C++ and SDL framework.",
     tags: "#C++ #SDL #Game_Dev",
@@ -76,7 +96,7 @@ const projects = [
     videoID: "0RJ1TG7otrw",
   },
   {
-    id: 9,
+    id: 3,
     date: "4/7/2020",
     description: "Sorting Visualizer made by C++ and SFML framework.",
     tags: "#C++ #SFML #Algorithm",
@@ -85,7 +105,7 @@ const projects = [
     videoID: "D_44pCcnLkA",
   },
   {
-    id: 10,
+    id: 2,
     date: "4/6/2020",
     description: "A classic snake game made by C++ and SFML framework.",
     tags: "#C++ #SFML #Game_Dev",
@@ -94,7 +114,7 @@ const projects = [
     videoID: "ejXbhEM0Uzk",
   },
   {
-    id: 11,
+    id: 1,
     date: "4/6/2020",
     description: "A simple Breakout game made by C++ and SFML framework.",
     tags: "#C++ #SFML #Game_Dev",
