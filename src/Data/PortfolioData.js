@@ -13,7 +13,7 @@ const projects = [
     id: 12,
     date: "2/17/2021",
     description:
-      "My new project upload page which will update the new project to firebase database and synchronize the content on the page",
+      "A new project upload page will update the new project to the firebase database and synchronize the content on the page",
     tags: "#React #Web_Dev",
     title: "Project Uploader with Firebase",
     type: "Web Dev",
